@@ -1,0 +1,25 @@
+{
+  "name": "seleniumtutorial",
+  "version": "1.0.0",
+  "description": "A testing sandbox to learn Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewAscone/SeleniumTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewAscone/SeleniumTutorial/issues"
+  },
+  "homepage": "https://github.com/AndrewAscone/SeleniumTutorial#readme",
+  "dependencies": {
+    "chromedriver": "^109.0.0",
+    "geckodriver": "^3.2.0",
+    "selenium-webdriver": "^4.8.0"
+  }
+}
